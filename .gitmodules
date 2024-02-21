@@ -1,0 +1,6 @@
+[submodule "driver"]
+	path = driver
+	url = https://github.com/osypov/driver.git
+[submodule "profiles_manager"]
+	path = profiles_manager
+	url = https://github.com/osypov/profiles-manager.git
